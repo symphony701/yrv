@@ -60,7 +60,7 @@
     "svelte3-router"
   ],
   "peerDependencies": {
-    "svelte": "^3.0.0"
+    "svelte": "^4.0.5"
   },
   "devDependencies": {
     "abstract-nested-router": "^0.2.1",
@@ -73,7 +73,7 @@
     "pug": "^3.0.0",
     "query-string": "^6.8.3",
     "standard-version": "^9.0.0",
-    "svelte": "^3.48.0",
+    "svelte":  "^4.0.5",
     "testcafe": "1.18.6"
   }
 }
